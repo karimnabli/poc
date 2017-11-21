@@ -1,0 +1,9 @@
+# given a user goto webapppoc website
+
+* Go to webapppoc website
+
+# then verify the page content
+
+* verify welcome message
+* verify the counter is an integer
+* verify the date
